@@ -1,0 +1,6 @@
+{
+  "name": "gioppino",
+  "version": "0.0.0",
+  "description": "GPIO library for Node",
+  "author": "Seiya Konno <nulltask@gmail.com> (http://null.ly)"
+}
